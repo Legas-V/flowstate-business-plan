@@ -103,11 +103,11 @@ FlowState will be promoted as a high-end, human-centred wellness and productivi
 
 ### Business Structure and Legal Status
 
-Initially registered as a **sole proprietorship** in the UK for flexibility and low startup cost. The long-term plan includes registering as a **private limited company (Ltd)** to attract investment and scale operations. The business will comply with GDPR and data protection standards from day one, using encrypted data handling for sensitive information.
+The company was established in the UK as a **sole proprietorship** for flexibility and cheap initial costs. To attract investment and expand operations, the long-term strategy calls for registering as a **private limited company (Ltd)**. From day one, the company will adhere to GDPR and data protection regulations, processing sensitive data with encrypted data. 
 
 ### Team and Roles
 
-The founder — with a background in Computer Science and Artificial Intelligence — will lead development, strategy, and initial outreach. As the platform grows, freelancers will be brought in for:
+With a background in artificial intelligence and computer science, the founder will take charge of strategy, development, and early outreach. Freelancers and potential partners will be hired/engaged as the platform expands for:
 
 - UI/UX design
 - Backend and AI development
