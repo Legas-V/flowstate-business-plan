@@ -2,9 +2,9 @@
 
 ## Product Section
 
-FlowState is a platform-independent digital application that unifies mental well-being, productivity, and creativity into one cohesive experience. Three key features are delivered through a simple yet spacious interface with no distractions: intelligent journaling, aimed at facilitating thought and emotional processing; AI-powered productivity tools that transform raw notes into structured tasks and collaborative plans; and freehand space for sketching and visualizing one's thoughts. 
+FlowState is a platform-independent digital application that unifies mental well-being, productivity, and creativity into one cohesive experience. Three key features are delivered through a simple yet spacious interface with no distractions: intelligent journaling, aimed at facilitating thought and emotional processing; AI-powered productivity tools that transform raw notes into structured tasks and collaborative plans; and freehand space for sketching and visualising one's thoughts. 
 	
-The app is entirely usable on various smartphones, tablets, and desktops, with seamless cloud synchronization across all devices. FlowState is intentionally designed to support any user, from students wanting to organize their notes and reflect upon their academic life to remote professionals needing clarity and structure in their workflow. The application also appeals to visual thinkers who like nonlinear creative expression tools and people suspecting a link between mental well-being and mindful self-reflection. 
+The app is entirely usable on various smartphones, tablets, and desktops, with seamless cloud synchronisation across all devices. FlowState is designed to support any user, from students wanting to organise their notes and reflect upon their academic life to remote professionals needing clarity and structure in their workflow. The application also appeals to visual thinkers who like nonlinear creative expression tools and people suspecting a link between mental well-being and mindful self-reflection. 
 
 In contrast to other noisy, multipurpose digital tools which instead add to the users' senses of digital overload, FlowState, with its calming minimal interface, offers the user complementary tools for emotional insights, productivity tactics, and creative liberties to enable a user to slip into and hold onto their state of flow-the purest period of deep work mixed with reflection and ideation.
 
@@ -33,7 +33,7 @@ FlowState will be developed using cross-platform technologies to ensure a consis
 - **Integrations**: Google Calendar, Notion, Dropbox
 - **Security**: End-to-end encryption and secure authentication (OAuth2)
 
-Initial development will focus on the MVP with journaling, summarisation, and emotion tagging, with creative and productivity features added iteratively.
+Initial development will focus on the MVP, which includes journaling, summarisation, and emotion tagging. Creative and productivity features will be added iteratively.
 
 ### Development Challenges and Mitigation
 
@@ -43,7 +43,7 @@ Initial development will focus on the MVP with journaling, summarisation, and em
 | AI reliability and user trust        | Use structured prompts and provide manual override options               |
 | Device compatibility                 | Build on cross-platform frameworks from the beginning                    |
 | Privacy and data security concerns   | Full encryption, GDPR compliance, transparent user policy                |
-| Market competition                   | Emphasise FlowState’s holistic approach and emotional intelligence       |
+| Market competition                   | Emphasise FlowState's holistic approach and emotional intelligence       |
 | Retention in freemium model          | Provide real value in free plan and meaningful premium upgrades          |
 
 ## Market Section
@@ -85,7 +85,7 @@ FlowState is positioned to meet this demand by offering a unified platform that 
 | Reflectly        | Emotion-focused journaling               | Lacks productivity or sketch tools                      |
 | GoodNotes        | Excellent handwriting support            | No AI, no integration with productivity tools           |
 
-FlowState’s unique value lies in combining journaling, planning, and visual creation into one emotionally aware platform — something competitors currently do not offer.
+FlowState's unique value lies in combining journaling, planning, and visual creation into one emotionally aware platform — something competitors currently do not offer.
 
 ### Market Positioning
 
