@@ -2,7 +2,7 @@
 
 ## Product Section
 
-FlowState is a platform-independent digital application that unifies mental well-being, productivity, and creativity into one cohesive experience. Its simple yet spacious interface with no distractions delivers three key features: intelligent journaling, which facilitates thought and emotional processing; AI-powered productivity tools that transform raw notes into structured tasks and collaborative plans; and freehand space for sketching and visualising one's thoughts. 
+FlowState is a platform-independent digital application that unifies mental well-being, productivity, and creativity into one cohesive experience. Its simple yet spacious interface with no distractions delivers three key features: intelligent journaling, which facilitates thought and emotional processing; AI-powered productivity tools that transform raw notes into structured tasks and collaborative plans; and a flexible space for freehand sketching and visual idea development. 
 	
 The app is entirely usable on various smartphones, tablets, and desktops, with seamless cloud synchronisation across all devices. FlowState is designed to support any user, from students wanting to organise their notes and reflect upon their academic life to remote professionals needing clarity and structure in their workflow. The application also appeals to visual thinkers who like nonlinear creative expression tools and people suspecting a link between mental well-being and mindful self-reflection. 
 
@@ -103,7 +103,7 @@ FlowState will be promoted as a high-end, human-centred wellness and productivi
 
 ### Business Structure and Legal Status
 
-The company was established in the UK as a **sole proprietorship** for flexibility and cheap initial costs. To attract investment and expand operations, the long-term strategy calls for registering as a **private limited company (Ltd)**. From day one, the company will adhere to GDPR and data protection regulations, processing sensitive data with encrypted data. 
+The company was established in the UK as a **sole proprietorship** for flexibility and cheap initial costs. To attract investment and expand operations, the long-term strategy calls for registering as a **private limited company (Ltd)**. From day one, the company will adhere to GDPR and data protection regulations, processing sensitive data using industry-standard encryption methods. 
 
 ### Team and Roles
 
