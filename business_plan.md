@@ -2,22 +2,22 @@
 
 ## Product Section
 
-FlowState is a digital app built to help people think more clearly, get things done, and be creative — all in one space. Instead of switching between different apps to journal, plan tasks, and brainstorm ideas, FlowState brings it all together through a clean, distraction-free interface.
+FlowState is a digital app built to help people think more clearly, get things done, and be creative — all in one space. Instead of switching between different apps to journal, plan tasks, and brainstorm ideas, FlowState brings them together through a clean, distraction-free interface.
 
 The app works on phones, tablets, and computers, syncing everything across devices so users can access their work anytime, anywhere. It’s meant for students, remote professionals, creatives, and anyone who wants a calmer, more focused way to organise their thoughts and manage their day.
 
-At its core, FlowState offers three main experiences:
+At its core, FlowState offers three primary experiences:
 - A journaling tool that helps users reflect and process emotions.
-- AI-powered productivity support that turns raw notes into clear tasks or plans.
+- AI-powered productivity support that turns raw notes into precise tasks or plans.
 - A creative space where users can sketch, write by hand, or build visual outlines.
 
-Where other tools tend to focus on one specific area — like task management or mood tracking — FlowState recognises how deeply connected mental well-being, clarity, and action really are. That’s what makes it different. The interface is quiet and minimal, with features designed to support deep focus rather than distract. It’s not about doing more — it’s about doing the right things, with more clarity and intention.
+Where other tools tend to focus on one specific area — like task management or mood tracking — FlowState recognises how deeply connected mental well-being, clarity, and action are. That’s what makes it different. The interface is quiet and minimal, with features that support deep focus rather than distraction. It’s not about doing more — it’s about doing the right things with clarity and intention.
 
 ### Key Features and Why They Matter
 
-Rather than overwhelming users with options, FlowState focuses on practical features that support real work and real reflection:
+Rather than overwhelming users with options, FlowState focuses on practical features that support real work and accurate reflection:
 
-- **Journaling (text and voice)** – Lets users express thoughts in whatever way feels easiest in the moment.
+- **Journaling (text and voice)** – Let users express thoughts in whatever way feels easiest.
 - **Mood and emotion insights** – Helps identify patterns and emotional trends over time.
 - **Smart summaries** – Upload notes and get back something clean and organised.
 - **Sketching space** – Draw ideas, map concepts, or simply think with your hands.
