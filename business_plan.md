@@ -2,40 +2,49 @@
 
 ## Product Section
 
-FlowState is a digital app built to help people think more clearly, get things done, and be creative — all in one space. Instead of switching between different apps to journal, plan tasks, and brainstorm ideas, FlowState brings them together through a clean, distraction-free interface.
+FlowState is a platform-independent digital application that unifies mental well-being, productivity, and creativity into one cohesive experience. Three key features are delivered through a simple yet spacious interface with no distractions: intelligent journaling, aimed at facilitating thought and emotional processing; AI-powered productivity tools that transform raw notes into structured tasks and collaborative plans; and freehand space for sketching and visualising one's thoughts. 
+	
+The app is entirely usable on various smartphones, tablets, and desktops, with seamless cloud synchronisation across all devices. FlowState is designed to support any user, from students wanting to organise their notes and reflect upon their academic life to remote professionals needing clarity and structure in their workflow. The application also appeals to visual thinkers who like nonlinear creative expression tools and people suspecting a link between mental well-being and mindful self-reflection. 
 
-The app works on phones, tablets, and computers, syncing everything across devices so users can access their work anytime, anywhere. It’s meant for students, remote professionals, creatives, and anyone who wants a calmer, more focused way to organise their thoughts and manage their day.
+In contrast to other noisy, multipurpose digital tools which instead add to the users' senses of digital overload, FlowState, with its calming minimal interface, offers the user complementary tools for emotional insights, productivity tactics, and creative liberties to enable a user to slip into and hold onto their state of flow-the purest period of deep work mixed with reflection and ideation.
 
-At its core, FlowState offers three primary experiences:
-- A journaling tool that helps users reflect and process emotions.
-- AI-powered productivity support that turns raw notes into precise tasks or plans.
-- A creative space where users can sketch, write by hand, or build visual outlines.
+### Core Features and Benefits
 
-Where other tools tend to focus on one specific area — like task management or mood tracking — FlowState recognises how deeply connected mental well-being, clarity, and action are. That’s what makes it different. The interface is quiet and minimal, with features that support deep focus rather than distraction. It’s not about doing more — it’s about doing the right things with clarity and intention.
+| Feature                             | Benefit                                                                 |
+|-------------------------------------|-------------------------------------------------------------------------|
+| Journaling (Text & Voice)           | Enables users to reflect and capture thoughts most inherently           |
+| Mood and emotion tracking           | Supports self-awareness and emotional regulation                        |
+| AI-powered cognitive reframing      | Helps users gain perspective and improve mental resilience              |
+| Note upload with automatic summary  | Saves time by organising raw notes into clear, structured summaries     |
+| Calendar and Notion integration     | Allows seamless planning and execution across systems                   |
+| AI task generation                  | Reduces cognitive load by turning notes into actionable items           |
+| Freeform creative canvas            | Enables visual thinking, sketching, and brainstorming                   |
+| Sketch-to-structure AI tool         | Converts visual inputs into diagrams or organised visual content        |
+| Secure cloud sync across devices    | Ensures all content is accessible, up to date, and backed up securely   |
+| End-to-end encryption               | Protects user privacy and sensitive information                         |
 
-### Key Features and Why They Matter
-
-Rather than overwhelming users with options, FlowState focuses on practical features that support real work and accurate reflection:
-
-- **Journaling (text and voice)** – Let users express thoughts in whatever way feels easiest.
-- **Mood and emotion insights** – Helps identify patterns and emotional trends over time.
-- **Smart summaries** – Upload notes and get back something clean and organised.
-- **Sketching space** – Draw ideas, map concepts, or simply think with your hands.
-- **Task and goal suggestions** – The AI can turn ideas into next steps.
-- **Integrations** – Works alongside Notion, Google Calendar, and other popular tools.
-- **Sync across devices** – Stay connected across mobile, tablet, and desktop.
-
-## Technical Overview
+### Technical Feasibility
 
 FlowState will be developed using cross-platform technologies to ensure a consistent user experience across devices.
 
-- **Frontend**: React Native (mobile + tablet); React for web  
-- **Backend**: Node.js with Firebase for real-time sync  
-- **AI**: GPT-4 (OpenAI) for summarisation and journaling insight; sentiment APIs for emotion detection  
-- **Integrations**: Google Calendar, Notion, Dropbox  
-- **Security**: End-to-end encryption and secure authentication (OAuth2)  
+- **Frontend**: React Native (mobile + tablet); React for web
+- **Backend**: Node.js with Firebase for real-time sync
+- **AI**: GPT-4 (OpenAI) for summarisation and journaling insight; sentiment APIs for emotion detection
+- **Integrations**: Google Calendar, Notion, Dropbox
+- **Security**: End-to-end encryption and secure authentication (OAuth2)
 
 Initial development will focus on the MVP, which includes journaling, summarisation, and emotion tagging. Creative and productivity features will be added iteratively.
+
+### Development Challenges and Mitigation
+
+| Challenge                             | Mitigation                                                               |
+|--------------------------------------|--------------------------------------------------------------------------|
+| High technical scope                 | Prioritise MVP; phase advanced features over time                        |
+| AI reliability and user trust        | Use structured prompts and provide manual override options               |
+| Device compatibility                 | Build on cross-platform frameworks from the beginning                    |
+| Privacy and data security concerns   | Full encryption, GDPR compliance, transparent user policy                |
+| Market competition                   | Emphasise FlowState's holistic approach and emotional intelligence       |
+| Retention in freemium model          | Provide real value in free plan and meaningful premium upgrades          |
 
 ## Market Section
 
@@ -47,11 +56,11 @@ FlowState is positioned to meet this demand by offering a unified platform that 
 
 ### Target Audience
 
-- University students who need to organise study materials and track personal progress.
-- Remote professionals and freelancers looking for calm, structured workspaces.
-- Creatives and visual thinkers who require sketching and diagramming tools for idea development.
-- Neurodivergent individuals who benefit from flexible, distraction-free tools.
-- Coaches, educators, and therapists seeking guided reflection tools for clients and students.
+- **University students** who need to organise study materials and track personal progress.
+- **Remote professionals and freelancers** looking for calm, structured workspaces.
+- **Creatives and visual thinkers** who require sketching and diagramming tools for idea development.
+- **Neurodivergent individuals** who benefit from flexible, distraction-free tools.
+- **Coaches, educators, and therapists** seeking guided reflection tools for clients and students.
 
 ### Market Validation
 
@@ -62,11 +71,9 @@ FlowState is positioned to meet this demand by offering a unified platform that 
 - 72% cited frustration with cluttered productivity tools  
 
 **Secondary Research**  
-- The digital mental wellness app market is projected to reach **$17.5B by 2030**  
+- Digital mental wellness app market projected to reach **$17.5B by 2030**  
 - AI productivity tools show >200% annual user growth  
 - Tools like reMarkable and GoodNotes show increased demand for handwriting/sketch support  
-
-FlowState's unique value lies in combining journaling, planning, and visual creation into one emotionally aware platform — something competitors currently do not offer.
 
 ### Competitor Analysis
 
@@ -78,6 +85,8 @@ FlowState's unique value lies in combining journaling, planning, and visual crea
 | Reflectly        | Emotion-focused journaling               | Lacks productivity or sketch tools                      |
 | GoodNotes        | Excellent handwriting support            | No AI, no integration with productivity tools           |
 
+FlowState's unique value lies in combining journaling, planning, and visual creation into one emotionally aware platform — something competitors currently do not offer.
+
 ### Market Positioning
 
 FlowState will be marketed as a premium, human-centred productivity and wellness platform. Its focus on clarity, calm, and creative flow appeals to users fatigued by noisy, overengineered applications. Marketing will focus on student outreach, creator economy partnerships, and institutional use cases for therapists and educators.
@@ -86,7 +95,7 @@ FlowState will be marketed as a premium, human-centred productivity and wellness
 
 ### Business Structure and Legal Status
 
-Initially registered as a sole proprietorship in the UK for flexibility and low startup cost. The long-term plan includes registering as a private limited company (Ltd) to attract investment and scale operations. The business will comply with GDPR and data protection standards from day one, using encrypted data handling for sensitive information.
+Initially registered as a **sole proprietorship** in the UK for flexibility and low startup cost. The long-term plan includes registering as a **private limited company (Ltd)** to attract investment and scale operations. The business will comply with GDPR and data protection standards from day one, using encrypted data handling for sensitive information.
 
 ### Team and Roles
 
@@ -98,8 +107,6 @@ The founder — with a background in Computer Science and Artificial Intelligenc
 
 ### Development Plan
 
-Built with React Native (mobile), React (web), Node.js (backend), and OpenAI API.
-
 | Phase         | Timeline         | Key Deliverables                                               |
 |---------------|------------------|-----------------------------------------------------------------|
 | MVP Build     | Months 1–3        | Journaling, emotion tagging, note summarisation                |
@@ -107,9 +114,11 @@ Built with React Native (mobile), React (web), Node.js (backend), and OpenAI API
 | Sketch Module | Month 5          | Freeform canvas, sketch-to-structure prototype                 |
 | Beta Launch   | Month 6          | User testing, marketing content, soft launch                   |
 
+Built with React Native (mobile), React (web), Node.js (backend), and OpenAI API.
+
 ### Financing and Revenue
 
-Self-funded MVP phase with an estimated cost of £80–£120/month. Further funding may be sought through:
+Self-funded MVP phase with an estimated cost of **£80–£120/month**. Further funding may be sought through:
 
 - University innovation grants
 - Startup competitions (e.g. Santander, SETsquared)
@@ -126,10 +135,10 @@ Payments are handled via Stripe; education/mental health discounts are planned.
 
 ### Sales and Marketing Strategy
 
-- Launch to students and creators via online productivity communities and wellness channels.
-- Collaborate with influencers in productivity and journaling niches (YouTube, TikTok)
-- Use referral incentives to grow the user base organically
-- Publish high-value content (journaling prompts, emotional wellness guides)
+- Launch to **students and creators** via online productivity communities and wellness channels
+- Collaborate with **influencers** in productivity and journaling niches (YouTube, TikTok)
+- Use **referral incentives** to grow user base organically
+- Publish **high-value content** (journaling prompts, emotional wellness guides)
 
 ### Operations
 
