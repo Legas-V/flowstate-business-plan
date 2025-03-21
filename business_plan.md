@@ -12,7 +12,7 @@ In contrast to other noisy, multipurpose digital tools which instead add to the 
 
 | Feature                             | Benefit                                                                 |
 |-------------------------------------|-------------------------------------------------------------------------|
-| Text and voice journaling           | Enables users to reflect and capture thoughts most inherently  |
+| Journaling (Text & Voice)           | Enables users to reflect and capture thoughts most inherently           |
 | Mood and emotion tracking           | Supports self-awareness and emotional regulation                        |
 | AI-powered cognitive reframing      | Helps users gain perspective and improve mental resilience              |
 | Note upload with automatic summary  | Saves time by organising raw notes into clear, structured summaries     |
