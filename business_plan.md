@@ -2,7 +2,7 @@
 
 ## Product Section
 
-FlowState is a platform-independent digital application that unifies mental well-being, productivity, and creativity into one cohesive experience. Its simple yet spacious interface with no distractions delivers three key features: intelligent journaling, which facilitates thought and emotional processing; AI-powered productivity tools that transform raw notes into structured tasks and collaborative plans; and a flexible space for freehand sketching and visual idea development. 
+FlowState is a platform-independent digital application that unifies mental well-being, productivity, and creativity into one cohesive experience. Its simple yet spacious interface, free of distractions, delivers three key features: intelligent journaling, which facilitates thought and emotional processing; AI-powered productivity tools that transform raw notes into structured tasks and collaborative plans; and a flexible space for freehand sketching and visual idea development. 
 	
 The app is entirely usable on various smartphones, tablets, and desktops, with seamless cloud synchronisation across all devices. FlowState is designed to support any user, from students wanting to organise their notes and reflect upon their academic life to remote professionals needing clarity and structure in their workflow. The application also appeals to visual thinkers who like nonlinear creative expression tools and people suspecting a link between mental well-being and mindful self-reflection. 
 
@@ -93,7 +93,7 @@ All information is accurate as of 2024.
 | Reflectly        | Emotion-focused journaling               | Lacks productivity or sketch tools                      |
 | GoodNotes        | Excellent handwriting support            | No AI, no integration with productivity tools           |
 
-FlowState's unique value lies in combining journaling, planning, and visual creation into one emotionally aware platform — something competitors currently do not offer.
+FlowState's unique value lies in its ability to combine journaling, planning, and visual creation into one emotionally aware platform, which competitors currently do not offer.
 
 ### Market Positioning
 
@@ -103,7 +103,7 @@ FlowState will be promoted as a high-end, human-centred wellness and productivi
 
 ### Business Structure and Legal Status
 
-The company was established in the UK as a **sole proprietorship** for flexibility and cheap initial costs. To attract investment and expand operations, the long-term strategy calls for registering as a **private limited company (Ltd)**. From day one, the company will adhere to GDPR and data protection regulations, processing sensitive data using industry-standard encryption methods. 
+The company was established in the UK as a sole proprietorship for flexibility and cheap initial costs. However, the long-term strategy calls for registering as a private limited company (Ltd) to attract investment and expand operations. From day one, the company will adhere to GDPR and data protection regulations, processing sensitive data using industry-standard encryption methods. 
 
 ### Team and Roles
 
@@ -129,12 +129,10 @@ Built with React Native (mobile), React (web), Node.js (backend), and OpenAI API
 Self-funded MVP phase with an estimated cost of **£80–£120/month**. Further funding may be sought through:
 
 - University innovation grants
-- Startup competitions (e.g. Santander, SETsquared)
-
-**Revenue Model:**
+- Startup competition:**
 
 | Tier            | Price       | Features                                                                 |
-|------------------|-------------|--------------------------------------------------------------------------|
+|------------------|-------------|---------- to attract investment and expand operations----------------------------------------------------------------|
 | Free             | £0          | Journaling, emotion tagging, limited uploads and summaries              |
 | Premium          | £6.99/month | Unlimited features, calendar sync, AI tools, sketch support             |
 | Pro/Enterprise   | Custom Quote| Team analytics, shared journaling spaces, B2B onboarding                |
