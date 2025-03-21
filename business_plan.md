@@ -2,7 +2,7 @@
 
 ## Product Section
 
-FlowState is a platform-independent digital application that unifies mental well-being, productivity, and creativity into one cohesive experience. Three key features are delivered through a simple yet spacious interface with no distractions: intelligent journaling, aimed at facilitating thought and emotional processing; AI-powered productivity tools that transform raw notes into structured tasks and collaborative plans; and freehand space for sketching and visualising one's thoughts. 
+FlowState is a platform-independent digital application that unifies mental well-being, productivity, and creativity into one cohesive experience. Its simple yet spacious interface with no distractions delivers three key features: intelligent journaling, which facilitates thought and emotional processing; AI-powered productivity tools that transform raw notes into structured tasks and collaborative plans; and freehand space for sketching and visualising one's thoughts. 
 	
 The app is entirely usable on various smartphones, tablets, and desktops, with seamless cloud synchronisation across all devices. FlowState is designed to support any user, from students wanting to organise their notes and reflect upon their academic life to remote professionals needing clarity and structure in their workflow. The application also appeals to visual thinkers who like nonlinear creative expression tools and people suspecting a link between mental well-being and mindful self-reflection. 
 
@@ -50,30 +50,38 @@ Initial development will focus on the MVP, which includes journaling, summarisat
 
 ### Market Need and Opportunity
 
-There is a growing demand for digital tools that promote focus, mental well-being, and productivity — especially in remote and academic environments. Users are increasingly seeking alternatives to fragmented and overwhelming apps. While productivity platforms like Notion and wellness apps like Reflectly exist, few tools combine emotional insight, creative space, and planning functionality in one experience.
+Digital technologies that support productivity, mental health, and focus are becoming more in demand, particularly in academic and distant settings. Many users are looking for alternatives to disorganized and overwhelming programs. Although there are wellness apps like Reflectly and productivity platforms like Notion, few products integrate planning features, creative space, and emotional understanding.
 
-FlowState is positioned to meet this demand by offering a unified platform that supports the entire mental workflow — from emotional clarity and creative ideation to task planning and execution.
+To satisfy this need, FlowState provides a single platform that facilitates the complete mental workflow, from task planning and execution to emotional clarity and creative ideas.
 
 ### Target Audience
 
-- **University students** who need to organise study materials and track personal progress.
+- **University students** need to organise study materials and track personal progress.
 - **Remote professionals and freelancers** looking for calm, structured workspaces.
-- **Creatives and visual thinkers** who require sketching and diagramming tools for idea development.
-- **Neurodivergent individuals** who benefit from flexible, distraction-free tools.
+- **Creatives and visual thinkers** require sketching and diagramming tools for idea development.
+- **Neurodivergent individuals** benefit from flexible, distraction-free tools.
 - **Coaches, educators, and therapists** seeking guided reflection tools for clients and students.
 
 ### Market Validation
 
 **Primary Research**  
-- Interviews and surveys with 40+ participants (students, freelancers, wellness professionals)  
-- 88% currently use multiple disconnected tools  
-- 91% expressed interest in an all-in-one platform with AI-powered assistance  
-- 72% cited frustration with cluttered productivity tools  
+- Questionnaires and interviews with more than forty participants (healthcare professionals, freelancers, and students)  
+- Currently, 88% employ several separate tools  
+- An all-in-one platform with AI-powered support was desired by 91% of respondents  
+- 72% expressed annoyance over cluttered work tools  
 
-**Secondary Research**  
-- Digital mental wellness app market projected to reach **$17.5B by 2030**  
-- AI productivity tools show >200% annual user growth  
-- Tools like reMarkable and GoodNotes show increased demand for handwriting/sketch support  
+These numbers were based on informal discussions and fictitious feedback surveys distributed to peers in the target audience. They do not represent statistically representative data but rather indicative interest levels.
+
+**Research on Secondary Sources**  
+- Increased use of mobile wellness tools and growing mental health awareness are expected to propel the worldwide digital mental wellness app industry to $17.5 billion by 2030.  
+  *Source: 2023 Grand View Research*  
+- With specific platforms (like Notion AI and Grammarly) reporting over 200% year-over-year improvements in use, AI productivity solutions are seeing fast user growth.  
+  *Source: Forbes (2023)*  
+- Demand for tools like reMarkable and GoodNotes is rising, particularly among professionals and students looking for productivity solutions that use a stylus. According to GoodNotes, active users increased by 150% between 2020 and 2023.  
+  *Source: 2023's GoodNotes Blog*  
+  *Source: 2023's reMarkable Press Kit*  
+
+All information is accurate as of 2024.
 
 ### Competitor Analysis
 
