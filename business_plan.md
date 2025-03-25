@@ -4,7 +4,7 @@
 
 FlowState operates as a cross-platform digital application that unifies creativity, productivity, and mental health into a single focused experience. The straightforward yet roomy, distraction-free interface provides three key features: intelligent journaling that facilitates the processing of thoughts and emotions; AI productivity tools that transform unstructured notes into organized task-and-plan-based collaboration; and a flexible area for freehand sketching and visual idea development.
 
-The application works well on various smartphones, tablets, and PCs; all devices synchronize with the cloud without any issues. From students who manage their notes and reflect on their academic lives to remote professionals who require clarity and flow in their workflow, FlowState is essentially for everyone. The application also appeals to visual thinkers who like nonlinear creative expression tools and people suspecting a link between mental well-being and mindful self-reflection.
+The application works well on smartphones, tablets, and PCs; all devices synchronize with the cloud without issues. From students who manage their notes and reflect on their academic lives to remote professionals who require clarity and flow in their workflow, FlowState is essentially for everyone. The application also appeals to visual thinkers who like nonlinear creative expression tools and people suspecting a link between mental well-being and mindful self-reflection.
 
 In contrast to other noisy, multipurpose digital tools which instead add to the users' senses of digital overload, FlowState, with its calming minimal interface, offers the user complementary tools for emotional insights, productivity tactics, and creative liberties to enable a user to slip into and hold onto their state of flow-the purest period of deep work mixed with reflection and ideation.
 
@@ -12,9 +12,9 @@ In contrast to other noisy, multipurpose digital tools which instead add to the 
 
 | Feature                             | Benefit                                                                 |
 |-------------------------------------|-------------------------------------------------------------------------|
-| Journaling (Text & Voice)           | Enables users to reflect and capture thoughts most inherently           |
-| Mood and emotion tracking           | Supports self-awareness and emotional regulation                        |
-| AI-powered cognitive reframing      | Helps users gain perspective and improve mental resilience              |
+| Journaling (Text & Voice)           | Allows users to reflect on and record their thoughts naturally          |
+| Tracking (Mood & emotion)           | Enhances emotional control and self-awareness                           |
+| AI-powered cognitive reframing      | Helps consumers become more resilient mentally and develop a broader perspective              |
 | Note upload with automatic summary  | Saves time by organising raw notes into clear, structured summaries     |
 | Calendar and Notion integration     | Allows seamless planning and execution across systems                   |
 | AI task generation                  | Reduces cognitive load by turning notes into actionable items           |
