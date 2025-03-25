@@ -2,9 +2,9 @@
 
 ## Product Section
 
-FlowState is a platform-independent digital application that unifies mental well-being, productivity, and creativity into one cohesive experience. Its simple yet spacious interface, free of distractions, delivers three key features: intelligent journaling, which facilitates thought and emotional processing; AI-powered productivity tools that transform raw notes into structured tasks and collaborative plans; and a flexible space for freehand sketching and visual idea development. 
-	
-The app is entirely usable on various smartphones, tablets, and desktops, with seamless cloud synchronisation across all devices. FlowState is designed to support any user, from students wanting to organise their notes and reflect upon their academic life to remote professionals needing clarity and structure in their workflow. The application also appeals to visual thinkers who like nonlinear creative expression tools and people suspecting a link between mental well-being and mindful self-reflection. 
+FlowState operates as a cross-platform digital application that unifies creativity, productivity, and mental health into a single focused experience. The straightforward yet roomy, distraction-free interface provides three key features: intelligent journaling that facilitates the processing of thoughts and emotions; AI productivity tools that transform unstructured notes into organized task-and-plan-based collaboration; and a flexible area for freehand sketching and visual idea development.
+
+The application works well on various smartphones, tablets, and PCs; all devices synchronize with the cloud without any issues. From students who manage their notes and reflect on their academic lives to remote professionals who require clarity and flow in their workflow, FlowState is essentially for everyone. The application also appeals to visual thinkers who like nonlinear creative expression tools and people suspecting a link between mental well-being and mindful self-reflection.
 
 In contrast to other noisy, multipurpose digital tools which instead add to the users' senses of digital overload, FlowState, with its calming minimal interface, offers the user complementary tools for emotional insights, productivity tactics, and creative liberties to enable a user to slip into and hold onto their state of flow-the purest period of deep work mixed with reflection and ideation.
 
