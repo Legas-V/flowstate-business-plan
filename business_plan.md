@@ -2,9 +2,9 @@
 
 ## Product Section
 
-FlowState operates as a cross-platform digital application that unifies creativity, productivity, and mental health into a single focused experience. The straightforward yet roomy, distraction-free interface provides three key features: intelligent journaling that facilitates the processing of thoughts and emotions; AI productivity tools that transform unstructured notes into organized task-and-plan-based collaboration; and a flexible area for freehand sketching and visual idea development.
+FlowState operates as a cross-platform digital application that unifies creativity, productivity, and mental health into a single focused experience. The straightforward yet roomy, distraction-free interface provides three key features: intelligent journaling that facilitates the processing of thoughts and emotions; AI productivity tools that transform unstructured notes into organised task-and-plan-based collaboration; and a flexible area for freehand sketching and visual idea development.
 
-The application works well on smartphones, tablets, and PCs; all devices synchronize with the cloud without issues. From students who manage their notes and reflect on their academic lives to remote professionals who require clarity and flow in their workflow, FlowState is essentially for everyone. The application also appeals to visual thinkers who like nonlinear creative expression tools and people suspecting a link between mental well-being and mindful self-reflection.
+The application works well on smartphones, tablets, and PCs; all devices synchronise with the cloud without issues. From students who manage their notes and reflect on their academic lives to remote professionals who require clarity and flow in their workflow, FlowState is essentially for everyone. The application also appeals to visual thinkers who like nonlinear creative expression tools and people suspecting a link between mental well-being and mindful self-reflection.
 
 In contrast to other noisy, multipurpose digital tools which instead add to the users' senses of digital overload, FlowState, with its calming minimal interface, offers the user complementary tools for emotional insights, productivity tactics, and creative liberties to enable a user to slip into and hold onto their state of flow-the purest period of deep work mixed with reflection and ideation.
 
@@ -14,13 +14,13 @@ In contrast to other noisy, multipurpose digital tools which instead add to the 
 |-------------------------------------|-------------------------------------------------------------------------|
 | Journaling (Text & Voice)           | Allows users to reflect on and record their thoughts naturally          |
 | Tracking (Mood & emotion)           | Enhances emotional control and self-awareness                           |
-| AI-powered cognitive reframing      | Helps consumers become more resilient mentally and develop a broader perspective              |
-| Note upload with automatic summary  | Saves time by organising raw notes into clear, structured summaries     |
-| Calendar and Notion integration     | Allows seamless planning and execution across systems                   |
-| AI task generation                  | Reduces cognitive load by turning notes into actionable items           |
+| AI-powered cognitive reframing      | Helps consumers become more resilient mentally and develop a broader perspective  |
+| Note upload with automatic summary  | Minimises time by compiling chaotic notes into concise, understandable summaries  |
+| Integration (Calendar & Notion)     | Enables effortless planning and system-to-system execution              |
+| AI task generation                  | Reduces mental exhaustion by converting notes into actionable knowledge |
 | Freeform creative canvas            | Enables visual thinking, sketching, and brainstorming                   |
-| Sketch-to-structure AI tool         | Converts visual inputs into diagrams or organised visual content        |
-| Secure cloud sync across devices    | Ensures all content is accessible, up to date, and backed up securely   |
+| Sketch-to-structure AI tool         | Creates structured visual content or diagrams from visual inputs        |
+| Safe device-to-device cloud syncing | Guarantees that all content is available, current, and safely backed up |
 | End-to-end encryption               | Protects user privacy and sensitive information                         |
 
 ### Technical Feasibility
