@@ -37,20 +37,20 @@ Initial development will focus on the MVP, which includes journaling, summarisat
 
 ### Development Challenges and Mitigation
 
-| Challenge                             | Mitigation                                                               |
+| Challenge                            | Mitigation                                                               |
 |--------------------------------------|--------------------------------------------------------------------------|
 | High technical scope                 | Prioritise MVP; phase advanced features over time                        |
 | AI reliability and user trust        | Use structured prompts and provide manual override options               |
 | Device compatibility                 | Build on cross-platform frameworks from the beginning                    |
 | Privacy and data security concerns   | Full encryption, GDPR compliance, transparent user policy                |
 | Market competition                   | Emphasise FlowState's holistic approach and emotional intelligence       |
-| Retention in freemium model          | Provide real value in free plan and meaningful premium upgrades          |
+| Retention in the freemium model      | Provide real value in the free plan and meaningful premium upgrades      |
 
 ## Market Section
 
 ### Market Need and Opportunity
 
-Digital technologies that support productivity, mental health, and focus are becoming more in demand, particularly in academic and distant settings. Many users are looking for alternatives to disorganized and overwhelming programs. Although there are wellness apps like Reflectly and productivity platforms like Notion, few products integrate planning features, creative space, and emotional understanding.
+Digital technology for productivity, mental health, and focus is rising in demand, especially in academic contexts and during times of remote work. Users are increasingly seeking alternatives to disorganised, uninviting programs. Though various wellness apps such as Reflectly or productivity tools such as Notion exist, very few include the features of planners, creativity spaces, and emotional insight.
 
 To satisfy this need, FlowState provides a single platform that facilitates the complete mental workflow, from task planning and execution to emotional clarity and creative ideas.
 
