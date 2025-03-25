@@ -73,13 +73,11 @@ To satisfy this need, FlowState provides a single platform that facilitates the 
 These numbers were based on informal discussions and fictitious feedback surveys distributed to peers in the target audience. They do not represent statistically representative data but rather indicative interest levels.
 
 **Research on Secondary Sources**  
-- Increased use of mobile wellness tools and growing mental health awareness are expected to propel the worldwide digital mental wellness app industry to $17.5 billion by 2030.  
-  *Source: 2023 Grand View Research*  
-- With specific platforms (like Notion AI and Grammarly) reporting over 200% year-over-year improvements in use, AI productivity solutions are seeing fast user growth.  
-  *Source: Forbes (2023)*  
-- Demand for tools like reMarkable and GoodNotes is rising, particularly among professionals and students looking for productivity solutions that use a stylus. According to GoodNotes, active users increased by 150% between 2020 and 2023.  
-  *Source: 2023's GoodNotes Blog*  
-  *Source: 2023's reMarkable Press Kit*  
+- Mobile wellness tools and increasing awareness about mental health should increase the global digital mental wellness application industry to $17.5 billion by 2030 *(Grand View Research, 2023)*.
+
+- Specific platforms, such as Notion AI and Grammarly, are experiencing annual usage growth of over 200%, and AI productivity tools are rapidly gaining user adoption *(Forbes, 2023)*.
+
+- There's also increasing demand for tools like reMarkable and GoodNotes, especially among professionals and students looking for stylus-based productivity solutions. As shared in 2023 by the *GoodNotes Blog* and the *reMarkable Press Kit*, active user growth increased by 150% from 2020 to 2023.
 
 All information is accurate as of 2024.
 
