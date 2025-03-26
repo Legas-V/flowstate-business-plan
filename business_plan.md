@@ -91,21 +91,21 @@ All information is accurate as of 2024.
 | Reflectly        | Emotion-focused journaling               | Lacks productivity or sketch tools                      |
 | GoodNotes        | Excellent handwriting support            | No AI, no integration with productivity tools           |
 
-FlowState's unique value lies in its ability to combine journaling, planning, and visual creation into one emotionally aware platform, which competitors currently do not offer.
+FlowState has a distinct value since no other platform in the market combines journaling, planning, and visual creation into a mentally conscious platform.
 
 ### Market Positioning
 
-FlowState will be promoted as a high-end, human-centred wellness and productivity platform. Users weary of loud, overly complex apps will find their emphasis on clarity, serenity, and creative flow appealing. The main marketing priorities will be outreach to students, collaborations with the creative economy, and institutional use cases for educators and therapists. 
+FlowState will be marketed as a high-end, human-centred wellness and productivity space. For users tired of noisy, too complicated-for-word applications, the essence of FlowState is crispness, serenity, and, above all, creative flow, which sits well with the audience. The main marketing priorities will be outreach to students, collaborations with the creative economy, and institutional use cases for educators and therapists. 
 
 ## Strategy Section
 
 ### Business Structure and Legal Status
 
-The company was established in the UK as a sole proprietorship for flexibility and cheap initial costs. However, the long-term strategy calls for registering as a private limited company (Ltd) to attract investment and expand operations. From day one, the company will adhere to GDPR and data protection regulations, processing sensitive data using industry-standard encryption methods. 
+The company was established in the UK as a sole proprietorship for flexibility and cheap initial costs. However, to attract funding and expand operations, the long-term plan is to register as a private limited company (Ltd). The business will utilise industry-standard encryption methods to process sensitive data in accordance with the GDPR and other relevant data protection laws applicable to the company from its inception. 
 
 ### Team and Roles
 
-With a background in artificial intelligence and computer science, the founder will take charge of strategy, development, and early outreach. Freelancers and potential partners will be hired/engaged as the platform expands for:
+The founder, with an AI and computer science background, shall be responsible for steering the strategy, development, and initial outreach, and as the platform expands, freelancers and potential partners will be hired/engaged in:
 
 - UI/UX design
 - Backend and AI development
