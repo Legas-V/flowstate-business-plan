@@ -84,7 +84,7 @@ All information is accurate as of 2024.
 ### Competitor Analysis
 
 | Competitor       | Strengths                                | Weaknesses                                              |
-|------------------|------------------------------------------|----------------------------------------------------------|
+|------------------|------------------------------------------|---------------------------------------------------------|
 | Notion           | Highly customisable productivity system  | Complex setup, no emotional tracking                    |
 | Day One          | Clean journaling experience              | No planning tools or integrations                       |
 | Obsidian         | Powerful for knowledge mapping           | Steep learning curve                                    |
@@ -113,12 +113,12 @@ The founder, with an AI and computer science background, shall be responsible fo
 
 ### Development Plan
 
-| Phase         | Timeline         | Key Deliverables                                               |
+| Phase         | Timeline         | Key Deliverables                                                |
 |---------------|------------------|-----------------------------------------------------------------|
-| MVP Build     | Months 1–3        | Journaling, emotion tagging, note summarisation                |
-| Productivity Add-ons | Month 4         | Calendar sync, task planner, AI coaching                      |
-| Sketch Module | Month 5          | Freeform canvas, sketch-to-structure prototype                 |
-| Beta Launch   | Month 6          | User testing, marketing content, soft launch                   |
+| MVP Build     | Months 1–3       | Journaling, emotion tagging, note summarisation                 |
+| Productivity Add-ons | Month 4   | Calendar sync, task planner, AI coaching                        |
+| Sketch Module | Month 5          | Freeform canvas, sketch-to-structure prototype                  |
+| Beta Launch   | Month 6          | User testing, marketing content, soft launch                    |
 
 Built with React Native (mobile), React (web), Node.js (backend), and OpenAI API.
 
