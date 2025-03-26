@@ -1,5 +1,6 @@
 # FlowState – Business Plan
 ![FlowState Logo](./logo.png)
+
 **Student Name:** Oleg Vyunik (Legas)  
 **BUCS ID:** [ov234@bath.ac.uk]  
 
