@@ -130,7 +130,7 @@ Self-funded MVP phase with an estimated cost of **£80–£120/month**. Further 
 - Startup competition:**
 
 | Tier             | Price       | Features                                                                |
-|------------------|-------------|---------- to attract investment and expand operations-------------------|
+|------------------|-------------|-------------------------------------------------------------------------|
 | Free             | £0          | Journaling, emotion tagging, limited uploads and summaries              |
 | Premium          | £6.99/month | Unlimited features, calendar sync, AI tools, sketch support             |
 | Pro/Enterprise   | Custom Quote| Team analytics, shared journaling spaces, B2B onboarding                |
