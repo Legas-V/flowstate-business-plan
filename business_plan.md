@@ -1,5 +1,9 @@
 # FlowState – Business Plan
 
+**Student Name:** Oleg Vyunik (Legas)  
+**BUCS ID:** [ov234@bath.ac.uk]  
+
+---
 ## Product Section
 
 FlowState operates as a cross-platform digital application that unifies creativity, productivity, and mental health into a single focused experience. The straightforward yet roomy, distraction-free interface provides three key features: intelligent journaling that facilitates the processing of thoughts and emotions; AI productivity tools that transform unstructured notes into organised task-and-plan-based collaboration; and a flexible area for freehand sketching and visual idea development.
