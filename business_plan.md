@@ -135,18 +135,25 @@ Self-funded MVP phase with an estimated cost of **£80–£120/month**. Further 
 | Premium          | £5.99/month | Unlimited features, calendar sync, AI tools, sketch support             |
 | Pro/Enterprise   | Custom Quote| Team analytics, shared journaling spaces, B2B onboarding                |
 
-Payments are handled via Stripe and others that offer APIs and SDKs for easy integration; education/mental health discounts are planned.
+Payments are handled via Stripe and other platforms that offer APIs and SDKs for easy integration; education and mental/physical health discounts are planned.
 
 ### Sales and Marketing Strategy
 
-- Launch to **students and creators** via online productivity communities and wellness channels
-- Collaborate with **influencers** in productivity and journaling niches (YouTube, TikTok)
-- Use **referral incentives** to grow user base organically
-- Publish **high-value content** (journaling prompts, emotional wellness guides)
+- Introduce it to **creators** and **students** through wellness channels and internet-based productivity communities.
+- Collaborate with YouTube and TikTok **influencers** in the journaling and productivity domain.
+- Utilise referral **bonuses** or **links** to organically expand the software's user base.
+- Publish **valuable content**, such as journaling exercises and manuals for emotional well-being.
 
 ### Operations
 
-Initially remote-first and solo-led. Scalable infrastructure using Firebase, GitHub CI/CD, and modular architecture for future expansion. Customer support and feedback will be handled via in-app channels, email, and, eventually, a user forum.
+Initially, remote-first and solo-led. 
+
+Steps for future growth:
+- Modular architecture
+- GitHub CI/CD
+- Scalable infrastructure
+
+Customer service and feedback will be provided via email, in-app channels, and eventually, a user forum.
 
 ### Risks and Mitigation
 
