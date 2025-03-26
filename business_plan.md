@@ -120,22 +120,22 @@ The founder, with an AI and computer science background, shall be responsible fo
 | Sketch Module | Month 5          | Freeform canvas, sketch-to-structure prototype                  |
 | Beta Launch   | Month 6          | User testing, marketing content, soft launch                    |
 
-Built with React Native (mobile), React (web), Node.js (backend), and OpenAI API.
+Built with React Native (mobile and tablets), React (web version), Node.js (backend), and OpenAI API.
 
 ### Financing and Revenue
 
 Self-funded MVP phase with an estimated cost of **£80–£120/month**. Further funding may be sought through:
 
 - University innovation grants
-- Startup competition:**
+- Startup competition
 
 | Tier             | Price       | Features                                                                |
 |------------------|-------------|-------------------------------------------------------------------------|
 | Free             | £0          | Journaling, emotion tagging, limited uploads and summaries              |
-| Premium          | £6.99/month | Unlimited features, calendar sync, AI tools, sketch support             |
+| Premium          | £5.99/month | Unlimited features, calendar sync, AI tools, sketch support             |
 | Pro/Enterprise   | Custom Quote| Team analytics, shared journaling spaces, B2B onboarding                |
 
-Payments are handled via Stripe; education/mental health discounts are planned.
+Payments are handled via Stripe and others that offer APIs and SDKs for easy integration; education/mental health discounts are planned.
 
 ### Sales and Marketing Strategy
 
